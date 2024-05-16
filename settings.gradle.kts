@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Translator"
 include(":app")
- 
+include(":feature:translateApi")
+include(":feature:translate")
